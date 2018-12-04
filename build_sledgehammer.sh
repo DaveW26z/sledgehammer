@@ -134,6 +134,7 @@ OS_BASIC_PACKAGES=(
     m2crypto
     mcstrans
     mlocate
+    memtester
     ncurses
     ncurses-libs
     neon
